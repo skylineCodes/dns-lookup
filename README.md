@@ -77,10 +77,10 @@ Example Output
 DNS query sent
 Received DNS response: [
   {
-    name: 'example.com',
+    name: 'google.com',
     type: 'A',
-    ttl: 299,
-    data: '93.184.216.34'
+    ttl: 143,
+    data: '216.58.223.206'
   }
 ]
 
